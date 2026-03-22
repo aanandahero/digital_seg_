@@ -1,0 +1,11 @@
+flask>=2.3
+flask-cors>=4.0
+easyocr
+pillow>=10.0
+gtts
+numpy>=1.24
+opencv-python-headless
+torch>=2.0
+torchvision>=0.15
+transformers>=4.35
+safetensors>=0.4
