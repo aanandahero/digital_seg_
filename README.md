@@ -1,0 +1,4 @@
+Clone the repo
+install requirements from requirements.txt
+Run app_copy_handthik.py 
+The page will open on localhost
